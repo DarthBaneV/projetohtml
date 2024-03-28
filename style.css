@@ -2,4 +2,5 @@ main{
     background-color: aqua;
     color: black;
     width: 50%;
+    margin-top: auto;
 }
